@@ -1,0 +1,2 @@
+# TextureImportDemo
+テクスチャをインポートする際に、圧縮フォーマットを設定するdemo
