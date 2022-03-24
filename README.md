@@ -7,6 +7,7 @@
 ### 内容詳細
 <img width="479" alt="スクリーンショット 2022-03-24 17 20 01" src="https://user-images.githubusercontent.com/59904787/159872896-473d8a3c-ae63-45c6-a2e7-a881380138a9.png">
 InAtlasフォルダに入れると、テクスチャを無圧縮に設定  
+
 NoInAtlasフォルダに入れると、ASTC_6x6圧縮フォーマットに設定  
 
 上記の自動的にフォーマット設定するのは、スクリプトで指定する  
